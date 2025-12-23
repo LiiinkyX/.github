@@ -8,7 +8,7 @@
   </p>
 
   <div style="text-align:center; margin: 20px 0;">
-    <img src="./firstlogo.png" style="width:180px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
+    <img src="./firstlogo.png" style="width:300px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
   </div>
 
   <h2 style="color: #58a6ff; margin-bottom: 10px;">✨ Features</h2>
