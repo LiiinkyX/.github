@@ -30,5 +30,5 @@
     <strong>Lynky focuses on meaningful randomness.</strong><br>
     It’s not just “next, next, next” — it’s <em>connect, remember, rediscover</em>.
   </p>
-
+ <img src="./Linkky.png"/>
 </div>
