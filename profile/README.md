@@ -7,9 +7,10 @@
     Meet new people instantly, reconnect with past conversations, and explore who’s around you through an interactive map — all without revealing your real identity.
   </p>
 
-  <div style="text-align:center; margin: 20px 0;">
-    <img src="./firstlogo.png" style="width:300px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
+  <div style="margin: 30px 0;">
+    <img src="./firstlogo.png" style="width: 400px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);" />
   </div>
+
 
   <h2 style="color: #58a6ff; margin-bottom: 10px;">✨ Features</h2>
   <ul style="line-height: 1.8; color: #adbac7;">
